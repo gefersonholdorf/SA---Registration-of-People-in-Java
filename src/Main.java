@@ -146,11 +146,5 @@ public class Main {
 		} 	
 
 	}
-
-
-
-	public void removeUser () {
-		
-	}
 	
 }
